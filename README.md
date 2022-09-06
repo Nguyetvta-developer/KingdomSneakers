@@ -4,3 +4,9 @@ php artisan migrate:refresh --seed
 
 php artisan migrate:fresh --seed
 "# KingdomSneakers" 
+
+
+account admin: 
+username: admin@gmail.com
+password: admin@gmail.com
+
